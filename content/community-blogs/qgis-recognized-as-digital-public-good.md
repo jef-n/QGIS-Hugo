@@ -29,11 +29,11 @@ showcase: "planet"
 
 
 <ul class="wp-block-list">
-<li>A<strong>lignment with SDGs</strong>, supporting sustainable development by enabling environmental monitoring, disaster management, urban planning, and more.</li>
+<li><strong>Alignment with SDGs</strong>, supporting sustainable development by enabling environmental monitoring, disaster management, urban planning, and more.</li>
 
 
 
-<li>C<strong>ommitment to open-source principles</strong>, ensuring transparency, collaboration, and accessibility.</li>
+<li><strong>Commitment to open-source principles</strong>, ensuring transparency, collaboration, and accessibility.</li>
 
 
 
